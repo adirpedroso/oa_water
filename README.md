@@ -1,6 +1,6 @@
 # oa_water
 
-Obstacle Avoidance (water) baseado no Ping1D..
+Obstacle Avoidance (water) baseado no Ping1D.
 
 ## Função atual
 - Leitura do sonar Ping1D via serial
